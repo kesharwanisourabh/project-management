@@ -12,3 +12,9 @@ the basic angular app with MongoDB database
 
 5.now you can see the app on browser
 
+# Previews
+
+<img src="screenshots/first.png" width="1000" height="500">
+
+
+<img src="screenshots/second.png" width="1000" height="500">
