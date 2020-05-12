@@ -17,4 +17,4 @@ the basic angular app with MongoDB database
 <img src="screenshots/first.png" width="1000" height="500">
 
 
-<img src="screenshots/second.png" width="1000" height="500">
+<img src="screenshots/sec.png" width="1000" height="500">
